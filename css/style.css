@@ -1,0 +1,29 @@
+h1 {background-color: rgb(56, 55, 55);}
+h1{color: rgb(253, 249, 249);}
+body { background-color: black;}
+h2{color: azure;}
+li{ color: azure;}
+h3 {color: aliceblue; background-color: rgb(3, 15, 49);}
+
+body 
+h1 {
+text-align: center;
+
+}
+
+h2 {
+text-align: center; font-size: medium;
+
+
+}
+.imagem-centralizada {
+        display: block; /* Torna a imagem um bloco */
+        margin-left: auto; /* Margem esquerda automática */
+        margin-right: auto; /* Margem direita automática */
+        max-width: 100%; /* Para garantir que a imagem não exceda a largura do container */
+        height: auto; /* Mantém a proporção da imagem */
+    }
+
+
+
+    
